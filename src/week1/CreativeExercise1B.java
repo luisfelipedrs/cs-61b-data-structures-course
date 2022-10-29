@@ -1,6 +1,6 @@
 package week1;
 
-public class creativeExercise1B {
+public class CreativeExercise1B {
     public static void main(String[] args) {
 
         drawTriangle(10);

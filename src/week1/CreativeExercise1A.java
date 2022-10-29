@@ -1,6 +1,6 @@
 package week1;
 
-public class creativeExercise1A {
+public class CreativeExercise1A {
     public static void main(String[] args) {
 
         String star = "*";
